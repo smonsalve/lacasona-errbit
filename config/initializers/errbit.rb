@@ -4,3 +4,5 @@ Airbrake.configure do |config|
   config.port    = 80
   config.secure  = config.port == 443
 end
+
+#aca habia una cosa rara
